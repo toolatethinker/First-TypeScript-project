@@ -5,7 +5,7 @@ import { HasFormatter } from "./Interface/HasFormatter.js";
 
 const form = document.querySelector('.new-item-form') as HTMLFormElement;
 
-console.log(form.children);
+//console.log(form.children);
 
 const type = document.querySelector('#type') as HTMLInputElement;
 const tofrom = document.querySelector('#tofrom') as HTMLInputElement;
